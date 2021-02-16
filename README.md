@@ -1,4 +1,14 @@
-### Hi there 👋
+# Olehana Arabic Android APP
+
+Initial Release of android app for Olehana Arabia. 
+
+Olehana Arabic is a manufacturing enterprise professional in the research & development design, and manufacturing of cosmetics ODM. Olehana is a professional private label cosmetics China manufacturer. Our factory facility is ISO 22716 certified and complies with Good Manufacturing Practices (GMP), established in 1996. With more than 20 years of R&D experience, we specialize in makeup and skincare products. We continuously uphold the highest quality control and the spirit of creativity and innovation.
+
+We have an excellent reputation through our professional knowledge and experience in this field. Our first-class production facilities offer high efficient OEM/ODM capacity which is more than enough to satisfy your needs.
+
+We are certified with GMPc and ISO 22716:2007 regulations to ensure the quality of products. Moreover, our products meet FDA, EEC or other global regulations. Olehana Cosmetic has been cooperating with some famous international brands in Northern America, Europe and Asia for many years. Well-experienced R&D teams to design innovative formulations and custom formulations to keep up with market trends and accept OEM orders to satisfy our customer’s need.
+
+Website :  https://www.olehanaarabic.com
 
 <!--
 **olehanaarabic/olehanaarabic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
